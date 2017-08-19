@@ -10,7 +10,7 @@
 (function($){
 	$(document).ready(function(){
 	
-		$(".banner-image").backstretch('../Portfolio to Print/Posters/collagebg-01.png');
+		$(".banner-image").backstretch('msksop.github.io/images/banner.jpg');
 		
 		// Fixed header
 		//-----------------------------------------------
