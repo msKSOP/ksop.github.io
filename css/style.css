@@ -8,10 +8,11 @@ File Description:Main CSS file of the template */
 
 /* Typography
 ----------------------------------------------------------------------------- */
-body {
-	font-family: 'Open Sans', sans-serif;
+@font-face {
+    font-family: 'Open Sans', sans-serif;
+    src: url('https://fonts.googleapis.com/css?family=Open+Sans');
 }
-.site-name {
+div {
 	font-family: 'Raleway', sans-serif;
 }
 html,
